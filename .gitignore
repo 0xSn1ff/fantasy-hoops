@@ -1,0 +1,13 @@
+# Yahoo OAuth credentials + cached tokens — never commit
+private/
+# Generated data (regenerated each refresh); keep mock.json tracked
+data/yahoo.json
+data/schedule.json
+data/lineupexperts.json
+data/merged.json
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store

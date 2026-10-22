@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "leagueName": "Dubs & Dimes (MOCK DATA)",
+    "leagueKey": "nba.l.000000",
+    "scoringType": "point",
+    "week": 2,
+    "weekStart": "2026-10-20",
+    "weekEnd": "2026-10-26",
+    "generatedAt": "2026-10-22T09:00:00",
+    "scoring": [
+      {"stat": "PTS", "value": 1.0},
+      {"stat": "REB", "value": 1.2},
+      {"stat": "AST", "value": 1.5},
+      {"stat": "ST", "value": 3.0},
+      {"stat": "BLK", "value": 3.0},
+      {"stat": "3PTM", "value": 0.5},
+      {"stat": "TO", "value": -1.0}
+    ],
+    "sources": {"yahoo": true, "schedule": true, "lineupExperts": true}
+  },
+  "myTeam": [
+    {"name": "Nikola Jokic", "team": "DEN", "pos": ["C"], "status": "ROSTERED", "pctRostered": 100, "fpgSeason": 58.2, "fpgL30": 57.1, "fpgL7": 59.8, "gpSeason": 6, "trend": 1.6, "gamesThisWeek": 3, "leFinderRank": null, "leTag": null, "leDrop": false},
+    {"name": "Anthony Edwards", "team": "MIN", "pos": ["SG"], "status": "ROSTERED", "pctRostered": 100, "fpgSeason": 42.1, "fpgL30": 44.0, "fpgL7": 46.3, "gpSeason": 6, "trend": 4.2, "gamesThisWeek": 4, "leFinderRank": null, "leTag": null, "leDrop": false},
+    {"name": "Cade Cunningham", "team": "DET", "pos": ["PG"], "status": "ROSTERED", "pctRostered": 100, "fpgSeason": 40.5, "fpgL30": 39.1, "fpgL7": 37.2, "gpSeason": 6, "trend": -3.3, "gamesThisWeek": 3, "leFinderRank": null, "leTag": null, "leDrop": false},
+    {"name": "Alperen Sengun", "team": "HOU", "pos": ["C"], "status": "ROSTERED", "pctRostered": 99, "fpgSeason": 41.0, "fpgL30": 42.5, "fpgL7": 40.1, "gpSeason": 6, "trend": -0.9, "gamesThisWeek": 3, "leFinderRank": null, "leTag": null, "leDrop": false},
+    {"name": "Jalen Williams", "team": "OKC", "pos": ["SF", "SG"], "status": "ROSTERED", "pctRostered": 98, "fpgSeason": 33.8, "fpgL30": 34.2, "fpgL7": 35.0, "gpSeason": 6, "trend": 1.2, "gamesThisWeek": 4, "leFinderRank": null, "leTag": null, "leDrop": false},
+    {"name": "Jalen Johnson", "team": "ATL", "pos": ["PF", "SF"], "status": "ROSTERED", "pctRostered": 97, "fpgSeason": 34.0, "fpgL30": 36.2, "fpgL7": 38.5, "gpSeason": 6, "trend": 4.5, "gamesThisWeek": 3, "leFinderRank": null, "leTag": null, "leDrop": false},
+    {"name": "Franz Wagner", "team": "ORL", "pos": ["SF", "PF"], "status": "ROSTERED", "pctRostered": 96, "fpgSeason": 35.2, "fpgL30": 33.0, "fpgL7": 30.5, "gpSeason": 6, "trend": -4.7, "gamesThisWeek": 4, "leFinderRank": null, "leTag": null, "leDrop": false},
+    {"name": "Derrick White", "team": "BOS", "pos": ["SG", "PG"], "status": "ROSTERED", "pctRostered": 94, "fpgSeason": 29.4, "fpgL30": 30.1, "fpgL7": 28.0, "gpSeason": 6, "trend": -1.4, "gamesThisWeek": 3, "leFinderRank": null, "leTag": null, "leDrop": false},
+    {"name": "Dejounte Murray", "team": "NOP", "pos": ["PG", "SG"], "status": "ROSTERED", "pctRostered": 90, "fpgSeason": 31.5, "fpgL30": 29.0, "fpgL7": 27.2, "gpSeason": 6, "trend": -4.3, "gamesThisWeek": 4, "leFinderRank": null, "leTag": null, "leDrop": false},
+    {"name": "Jarrett Allen", "team": "CLE", "pos": ["C"], "status": "ROSTERED", "pctRostered": 88, "fpgSeason": 28.1, "fpgL30": 27.5, "fpgL7": 26.0, "gpSeason": 6, "trend": -2.1, "gamesThisWeek": 3, "leFinderRank": null, "leTag": null, "leDrop": false},
+    {"name": "Keyonte George", "team": "UTA", "pos": ["PG", "SG"], "status": "ROSTERED", "pctRostered": 72, "fpgSeason": 25.0, "fpgL30": 26.5, "fpgL7": 28.1, "gpSeason": 6, "trend": 3.1, "gamesThisWeek": 3, "leFinderRank": null, "leTag": null, "leDrop": false},
+    {"name": "Bennedict Mathurin", "team": "IND", "pos": ["SG", "SF"], "status": "ROSTERED", "pctRostered": 61, "fpgSeason": 24.3, "fpgL30": 22.0, "fpgL7": 19.5, "gpSeason": 6, "trend": -4.8, "gamesThisWeek": 4, "leFinderRank": null, "leTag": "sell", "leDrop": true},
+    {"name": "Jonathan Kuminga", "team": "GSW", "pos": ["PF", "SF"], "status": "ROSTERED", "pctRostered": 58, "fpgSeason": 22.8, "fpgL30": 21.0, "fpgL7": 18.9, "gpSeason": 6, "trend": -3.9, "gamesThisWeek": 3, "leFinderRank": null, "leTag": "sell", "leDrop": true}
+  ],
+  "freeAgents": [
+    {"name": "Deni Avdija", "team": "POR", "pos": ["SF", "PF"], "status": "FA", "pctRostered": 54, "fpgSeason": 36.8, "fpgL30": 38.0, "fpgL7": 41.2, "gpSeason": 6, "trend": 4.4, "gamesThisWeek": 4, "leFinderRank": 1, "leTag": "buy", "leDrop": false},
+    {"name": "Scoot Henderson", "team": "POR", "pos": ["PG"], "status": "FA", "pctRostered": 38, "fpgSeason": 31.2, "fpgL30": 33.5, "fpgL7": 36.0, "gpSeason": 6, "trend": 4.8, "gamesThisWeek": 4, "leFinderRank": 2, "leTag": "buy", "leDrop": false},
+    {"name": "Christian Braun", "team": "DEN", "pos": ["SG", "SF"], "status": "FA", "pctRostered": 41, "fpgSeason": 29.5, "fpgL30": 31.0, "fpgL7": 33.4, "gpSeason": 6, "trend": 3.9, "gamesThisWeek": 3, "leFinderRank": 3, "leTag": "buy", "leDrop": false},
+    {"name": "Ryan Rollins", "team": "MIL", "pos": ["PG", "SG"], "status": "FA", "pctRostered": 22, "fpgSeason": 28.8, "fpgL30": 30.2, "fpgL7": 32.0, "gpSeason": 6, "trend": 3.2, "gamesThisWeek": 3, "leFinderRank": 4, "leTag": "buy", "leDrop": false},
+    {"name": "Toumani Camara", "team": "POR", "pos": ["PF", "SF"], "status": "FA", "pctRostered": 29, "fpgSeason": 27.0, "fpgL30": 28.5, "fpgL7": 30.1, "gpSeason": 6, "trend": 3.1, "gamesThisWeek": 4, "leFinderRank": 5, "leTag": null, "leDrop": false},
+    {"name": "Naz Reid", "team": "MIN", "pos": ["C", "PF"], "status": "FA", "pctRostered": 46, "fpgSeason": 28.0, "fpgL30": 29.5, "fpgL7": 31.0, "gpSeason": 6, "trend": 3.0, "gamesThisWeek": 4, "leFinderRank": 6, "leTag": "buy", "leDrop": false},
+    {"name": "Jaden McDaniels", "team": "MIN", "pos": ["SF", "PF"], "status": "FA", "pctRostered": 44, "fpgSeason": 26.5, "fpgL30": 27.0, "fpgL7": 28.9, "gpSeason": 6, "trend": 2.4, "gamesThisWeek": 4, "leFinderRank": 7, "leTag": null, "leDrop": false},
+    {"name": "Day'Ron Sharpe", "team": "BKN", "pos": ["C"], "status": "FA", "pctRostered": 18, "fpgSeason": 24.5, "fpgL30": 26.8, "fpgL7": 29.4, "gpSeason": 6, "trend": 4.9, "gamesThisWeek": 3, "leFinderRank": 8, "leTag": "buy", "leDrop": false},
+    {"name": "Quentin Grimes", "team": "PHI", "pos": ["SG", "SF"], "status": "FA", "pctRostered": 33, "fpgSeason": 30.1, "fpgL30": 29.0, "fpgL7": 27.5, "gpSeason": 6, "trend": -2.6, "gamesThisWeek": 3, "leFinderRank": 9, "leTag": "sell", "leDrop": false},
+    {"name": "Nikola Vucevic", "team": "CHI", "pos": ["C"], "status": "FA", "pctRostered": 58, "fpgSeason": 32.4, "fpgL30": 31.0, "fpgL7": 29.5, "gpSeason": 6, "trend": -2.9, "gamesThisWeek": 3, "leFinderRank": 10, "leTag": null, "leDrop": false},
+    {"name": "Santi Aldama", "team": "MEM", "pos": ["PF", "C"], "status": "FA", "pctRostered": 31, "fpgSeason": 25.4, "fpgL30": 26.0, "fpgL7": 27.3, "gpSeason": 6, "trend": 1.9, "gamesThisWeek": 4, "leFinderRank": 11, "leTag": null, "leDrop": false},
+    {"name": "Cam Whitmore", "team": "WAS", "pos": ["SF", "SG"], "status": "FA", "pctRostered": 24, "fpgSeason": 24.9, "fpgL30": 27.0, "fpgL7": 29.8, "gpSeason": 6, "trend": 4.9, "gamesThisWeek": 4, "leFinderRank": 12, "leTag": "buy", "leDrop": false},
+    {"name": "Keon Ellis", "team": "SAC", "pos": ["SG", "PG"], "status": "FA", "pctRostered": 15, "fpgSeason": 22.1, "fpgL30": 23.0, "fpgL7": 24.5, "gpSeason": 6, "trend": 2.4, "gamesThisWeek": 4, "leFinderRank": 13, "leTag": null, "leDrop": false},
+    {"name": "Ausar Thompson", "team": "DET", "pos": ["SF", "PF"], "status": "FA", "pctRostered": 33, "fpgSeason": 27.1, "fpgL30": 28.5, "fpgL7": 30.2, "gpSeason": 6, "trend": 3.1, "gamesThisWeek": 3, "leFinderRank": 14, "leTag": "buy", "leDrop": false},
+    {"name": "Isaiah Collier", "team": "UTA", "pos": ["PG"], "status": "FA", "pctRostered": 21, "fpgSeason": 25.8, "fpgL30": 27.2, "fpgL7": 29.0, "gpSeason": 6, "trend": 3.2, "gamesThisWeek": 3, "leFinderRank": 15, "leTag": "buy", "leDrop": false},
+    {"name": "Tari Eason", "team": "HOU", "pos": ["PF", "SF"], "status": "FA", "pctRostered": 35, "fpgSeason": 26.2, "fpgL30": 27.5, "fpgL7": 28.0, "gpSeason": 6, "trend": 1.8, "gamesThisWeek": 3, "leFinderRank": null, "leTag": null, "leDrop": false},
+    {"name": "Peyton Watson", "team": "DEN", "pos": ["SF", "PF"], "status": "FA", "pctRostered": 20, "fpgSeason": 23.7, "fpgL30": 24.0, "fpgL7": 25.1, "gpSeason": 6, "trend": 1.4, "gamesThisWeek": 3, "leFinderRank": null, "leTag": null, "leDrop": false},
+    {"name": "Jonas Valanciunas", "team": "DEN", "pos": ["C"], "status": "FA", "pctRostered": 12, "fpgSeason": 20.5, "fpgL30": 22.0, "fpgL7": 24.1, "gpSeason": 6, "trend": 3.6, "gamesThisWeek": 3, "leFinderRank": null, "leTag": "buy", "leDrop": false},
+    {"name": "Jordan Poole", "team": "NOP", "pos": ["SG", "PG"], "status": "FA", "pctRostered": 48, "fpgSeason": 29.9, "fpgL30": 27.0, "fpgL7": 24.1, "gpSeason": 6, "trend": -5.8, "gamesThisWeek": 4, "leFinderRank": null, "leTag": "sell", "leDrop": false},
+    {"name": "Jalen Suggs", "team": "ORL", "pos": ["PG", "SG"], "status": "FA", "pctRostered": 51, "fpgSeason": 27.3, "fpgL30": 25.0, "fpgL7": 22.1, "gpSeason": 6, "trend": -5.2, "gamesThisWeek": 4, "leFinderRank": null, "leTag": "sell", "leDrop": false},
+    {"name": "Gradey Dick", "team": "TOR", "pos": ["SG", "SF"], "status": "FA", "pctRostered": 27, "fpgSeason": 21.0, "fpgL30": 19.5, "fpgL7": 17.2, "gpSeason": 6, "trend": -3.8, "gamesThisWeek": 3, "leFinderRank": null, "leTag": "sell", "leDrop": false},
+    {"name": "Dalton Knecht", "team": "LAL", "pos": ["SG", "SF"], "status": "FA", "pctRostered": 28, "fpgSeason": 21.5, "fpgL30": 20.0, "fpgL7": 18.1, "gpSeason": 6, "trend": -3.4, "gamesThisWeek": 4, "leFinderRank": null, "leTag": "sell", "leDrop": false},
+    {"name": "Bub Carrington", "team": "WAS", "pos": ["PG", "SG"], "status": "FA", "pctRostered": 19, "fpgSeason": 23.2, "fpgL30": 22.0, "fpgL7": 20.5, "gpSeason": 6, "trend": -2.7, "gamesThisWeek": 4, "leFinderRank": null, "leTag": null, "leDrop": false}
+  ],
+  "leOnly": [
+    {"name": "GG Jackson", "team": "MEM", "leFinderRank": 16},
+    {"name": "Jared Butler", "team": "PHI", "leTag": "buy"}
+  ]
+}
